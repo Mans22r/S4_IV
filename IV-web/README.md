@@ -1,2 +1,0 @@
-# natours
-Tour Webpage
